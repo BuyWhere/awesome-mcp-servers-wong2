@@ -9,52 +9,12 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://get.brightdata.com/mcpservers">
-        <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="200" alt="Bright Data Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://get.brightdata.com/mcpservers">Access reliable, real-time or historical web data at scale with Bright Data MCP. Enjoy 5,000 MCP requests every month - for free</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <a href="https://mcp.alphavantage.co/">
         <img src="assets/alpha-vantage.png" width="200" alt="Alpha Vantage Logo">
       </a>
     </td>
     <td>
       <a href="https://mcp.alphavantage.co/">Alpha Vantage MCP Server - Access financial market data: realtime & historical stock, ETF, options, forex, crypto, commodities, fundamentals, technical indicators, & more</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://docs.heyneo.com/neo-mcp">
-        <img src="assets/neo.png" width="200" alt="Neo Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://docs.heyneo.com/neo-mcp">NEO MCP lets Claude Code, Cursor and VS Code hand off complex AI engineering tasks like AI model evals, AI agent optimization and more to NEO.</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://capafy.ai/?utm_source=mcpservers&utm_medium=referral">
-        <img src="assets/capafy.png" height="100" alt="Capafy Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://capafy.ai/?utm_source=mcpservers&utm_medium=referral">Capafy - the Skill-based Agent Marketplace. Upload your Skill, run it as a product, and make real money every time someone uses it.</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.webotee.com/amazon-product-research-mcp?utm_source=mcpservers&utm_medium=sponsor&utm_campaign=mcp_directory">
-        <img src="assets/webotee.png" width="200" alt="Webotee Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.webotee.com/amazon-product-research-mcp?utm_source=mcpservers&utm_medium=sponsor&utm_campaign=mcp_directory">Amazon seller intelligence in your AI — brand, seller, buy-box & niche research in Claude or ChatGPT, with Webotee.</a>
     </td>
   </tr>
 </table>
