@@ -277,6 +277,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[VISO TRUST](https://github.com/visotrust/viso-mcp-server)** - Access and manage your VISO TRUST third-party risk program directly through your AI assistant.
 - **[VpunaAiSearch](https://github.com/vpuna/vpuna-ai-search)** - Connect to [Vpuna AI Search Service](https://aisearch.vpuna.com), a developer first platform for semantic search, summarization, and contextual chat. Each project dynamically exposes its own Remote HTTP MCP server, enabling real-time context injection from structured and unstructured data.
 - **[WayStation](https://waystation.ai/connect/mcp-server)** — A universal remote MCP server that connects to popular productivity tools such as Notion, Monday, AirTable, and many more.
+- **[BuyWhere](https://api.buywhere.ai/mcp)** - A remote MCP server for shopping and product discovery, enabling AI assistants to query real-time product catalogs, compare prices, and find merchant listings.
 - **[WebDataSource](https://webdatasource.com/releases/latest/mcp/index.html)** - Web Crawler for AI Agents. Supercharge your AI agents with an MCP-ready web crawler that delivers real-time insights from the web and your private knowledge bases.
 - **[Webflow](https://github.com/webflow/mcp-server)** - Interact with Webflow APIs to list and edit your site and CMS data.
 - **[WebScraping.AI](https://github.com/webscraping-ai/webscraping-ai-mcp-server)** - Interact with **[WebScraping.AI](https://WebScraping.AI)** for web data extraction and scraping.
