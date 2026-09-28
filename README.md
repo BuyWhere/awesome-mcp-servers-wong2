@@ -310,6 +310,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[AWS EC2 Pricing](https://github.com/trilogy-group/aws-pricing-mcp)** - Get up-to-date EC2 pricing information with one call. Fast. Powered by a pre-parsed AWS pricing catalogue.
 - **[Backup](https://github.com/hexitex/MCP-Backup-Server)** - Add smart Backup ability to coding agents like Windsurf, Cursor, Cluade Coder, etc
 - **[Basecamp](https://github.com/georgeantonopoulos/Basecamp-MCP-Server)** - Integration with Basecamp project management platform for managing projects, to-dos, card tables, documents, and team collaboration
+- **[BuyWhere](https://api.buywhere.ai/mcp)** - Remote MCP server for shopping and product discovery, enabling AI assistants to query real-time product catalogs, compare prices, and find merchant listings. REMOTE! Use the url [https://api.buywhere.ai/mcp](https://api.buywhere.ai/mcp) to add the server.
 - **[BGG MCP](https://github.com/kkjdaniel/bgg-mcp)** - BGG MCP enables AI tools to interact with the BoardGameGeek API.
 - **[BigQuery](https://github.com/LucasHild/mcp-server-bigquery)** (by LucasHild) - BigQuery database integration with schema inspection and query capabilities
 - **[BigQuery](https://github.com/ergut/mcp-bigquery-server)** (by ergut) - Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities
