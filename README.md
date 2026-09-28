@@ -71,6 +71,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Baserow](https://baserow.io/user-docs/mcp-server)** - Read and write access to your Baserow tables.
 - **[Box](https://github.com/box-community/mcp-server-box)** - Interact with the Intelligent Content Management platform through Box AI.
 - **[Bright Data](https://github.com/brightdata/brightdata-mcp)** - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
+- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Official remote shopping MCP ([https://api.buywhere.ai/mcp](https://api.buywhere.ai/mcp)): search and compare live product prices across SG/SEA catalogs. Docs: [https://docs.buywhere.ai](https://docs.buywhere.ai). Install: `npx -y @buywhere/mcp-server`.
 - **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
 - **[BrowserStack](https://github.com/browserstack/mcp-server)** – Bring the full power of BrowserStack’s [Test Platform](https://www.browserstack.com/test-platform) to your AI tools, making testing faster and easier for every developer and tester on your team.
 - **[Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol)** - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
