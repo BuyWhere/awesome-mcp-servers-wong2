@@ -52,7 +52,6 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AllVoiceLab](https://www.allvoicelab.com/mcp)** - An AI voice toolkit with TTS, voice cloning, and video translation, now available as an MCP server for smarter agent integration.
 - **[Apache Doris](https://github.com/apache/doris-mcp-server)** - MCP Server For [Apache Doris](https://doris.apache.org/), an MPP-based real-time data warehouse.
 - **[Apify](https://github.com/apify/actors-mcp-server)** - [Actors MCP Server](https://apify.com/apify/actors-mcp-server): Use 3,000+ pre-built cloud tools to extract data from websites, e-commerce, social media, search engines, maps, and more
-- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - MCP server for product pricing, availability, and catalog data from thousands of retailers. Published as `@buywhere/mcp-server`.
 - **[APIMatic MCP](https://github.com/apimatic/apimatic-validator-mcp)** - APIMatic MCP Server is used to validate OpenAPI specifications using [APIMatic](https://www.apimatic.io/). The server processes OpenAPI files and returns validation summaries by leveraging APIMatic’s API.
 - **[Armor Crypto MCP](https://github.com/armorwallet/armor-crypto-mcp)** - MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders, Coin Lookup, Tracking and more.
 - **[Augments](https://augments.dev/)** - Comprehensive framework documentation and code examples for popular development tools and libraries.
@@ -77,7 +76,6 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol)** - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
 - **[Buildable](https://github.com/chunkydotdev/bldbl-mcp)** - Official MCP server for Buildable AI-powered development platform. Enables AI assistants to manage tasks, track progress, get project context, and collaborate with humans on software projects.
 - **[Buildkite](https://github.com/buildkite/buildkite-mcp-server)** - Manage [Buildkite](https://buildkite.com) pipelines and builds.
-- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Real-time product search, price comparison, and deal discovery across thousands of merchants for AI agents. Published as `@buywhere/mcp-server`. Works with Claude Desktop, CrewAI, Mastra, and any MCP-compatible framework.
 - **[CallHub](https://github.com/callhub/callhub-mcp)** - Python-based MCP tool providing a comprehensive set of functions for managing contacts, phonebooks, agents, teams, campaigns, and other CallHub resources.
 - **[Campertunity](https://github.com/campertunity/mcp-server)** - Search campgrounds around the world on campertunity, check availability, and provide booking links.
 - **[Carbon Voice](https://github.com/PhononX/cv-mcp-server)** - <img height="20" width="20" src="https://carbonvoice.app/favicon.ico" align="center"/> MCP Server that connects AI Agents to [Carbon Voice](https://getcarbon.app). Create, manage, and interact with voice messages, conversations, direct messages, folders, voice memos, AI actions and more in [Carbon Voice](https://getcarbon.app).
@@ -188,6 +186,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[MCP Toolbox for Databases](https://github.com/googleapis/genai-toolbox)** - Open source MCP server specializing in easy, fast, and secure tools for Databases.
 - **[Meilisearch](https://github.com/meilisearch/meilisearch-mcp)** - Interact & query with Meilisearch (Full-text & semantic search API)
 - **[Mercado Libre](https://mcp.mercadolibre.com/)** - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
+- **[BuyWhere](https://api.buywhere.ai/mcp)** - Remote MCP server for shopping and product discovery, enabling AI assistants to query real-time product catalogs, compare prices, and find merchant listings.
 - **[Mercado Pago](https://mcp.mercadopago.com/)** - Mercado Pago's official MCP server, offering tools to interact with our API, simplifying tasks and product integration.
 - **[Metoro](https://github.com/metoro-io/metoro-mcp-server)** - Query and interact with kubernetes environments monitored by Metoro
 - **[Milvus](https://github.com/zilliztech/mcp-server-milvus)** - Search, Query and interact with data in your Milvus Vector Database.
