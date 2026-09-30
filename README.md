@@ -247,6 +247,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[SlideSpeak](https://github.com/SlideSpeak/slidespeak-mcp)** - Create presentations and PowerPoints using AI and SlideSpeak MCP
 - **[SonarQube](https://github.com/SonarSource/sonarqube-mcp-server)** - Provides seamless integration with [SonarQube](https://www.sonarsource.com/) Server or Cloud, and enables analysis of code snippets directly within the agent context
 - **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)** - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
+- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Remote MCP server for shopping and product discovery. Query live product catalogs, compare prices, and find merchant listings. Endpoint: https://api.buywhere.ai/mcp. Site: https://buywhere.ai. Docs: https://docs.buywhere.ai.
 - **[Supabase](https://github.com/supabase-community/supabase-mcp)** - Connects to Supabase platform for database, auth, edge functions and more.
 - **[Supadata](https://github.com/supadata-ai/mcp)** - Official MCP server for [Supadata](https://supadata.ai) - YouTube, TikTok, X and Web data for makers.
 - **[Square](https://github.com/square/square-mcp-server)** - A Model Context Protocol (MCP) server for square
